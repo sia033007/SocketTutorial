@@ -1,0 +1,13 @@
+H:\SocketTutorial\bin\Debug\netcoreapp3.1\SocketTutorial.exe
+H:\SocketTutorial\bin\Debug\netcoreapp3.1\SocketTutorial.deps.json
+H:\SocketTutorial\bin\Debug\netcoreapp3.1\SocketTutorial.runtimeconfig.json
+H:\SocketTutorial\bin\Debug\netcoreapp3.1\SocketTutorial.runtimeconfig.dev.json
+H:\SocketTutorial\bin\Debug\netcoreapp3.1\SocketTutorial.dll
+H:\SocketTutorial\bin\Debug\netcoreapp3.1\SocketTutorial.pdb
+H:\SocketTutorial\obj\Debug\netcoreapp3.1\SocketTutorial.csprojAssemblyReference.cache
+H:\SocketTutorial\obj\Debug\netcoreapp3.1\SocketTutorial.AssemblyInfoInputs.cache
+H:\SocketTutorial\obj\Debug\netcoreapp3.1\SocketTutorial.AssemblyInfo.cs
+H:\SocketTutorial\obj\Debug\netcoreapp3.1\SocketTutorial.csproj.CoreCompileInputs.cache
+H:\SocketTutorial\obj\Debug\netcoreapp3.1\SocketTutorial.dll
+H:\SocketTutorial\obj\Debug\netcoreapp3.1\SocketTutorial.pdb
+H:\SocketTutorial\obj\Debug\netcoreapp3.1\SocketTutorial.genruntimeconfig.cache
